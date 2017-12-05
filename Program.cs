@@ -15,6 +15,12 @@ namespace AdventOfCode2017
 
             Day2 d2 = new Day2();
             Console.WriteLine(d2.Part2());
+
+            Day3 d3 = new Day3();
+            Console.WriteLine(d3.Part1(368078.0));
+
+            Day4 d4 = new Day4();
+            Console.WriteLine(d4.Part2());
         }
     }
 }
