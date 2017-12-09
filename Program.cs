@@ -10,6 +10,7 @@ namespace AdventOfCode2017
     {
         static void Main(string[] args)
         {
+            /*
             Day1 d1 = new Day1();
             Console.WriteLine(d1.Part2(d1.d1In));
 
@@ -21,6 +22,10 @@ namespace AdventOfCode2017
 
             Day4 d4 = new Day4();
             Console.WriteLine(d4.Part2());
+            */
+
+            Day5 d5 = new Day5();
+            Console.WriteLine(d5.Part2());
         }
     }
 }
